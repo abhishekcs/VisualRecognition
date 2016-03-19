@@ -1,0 +1,6 @@
+\n\nStarting create lmdb\n\n
+job execution at: Wed Mar 9 02:18:49 CST 2016
+running on node c221-403
+Creating train lmdb...
+Creating val lmdb...
+Done.

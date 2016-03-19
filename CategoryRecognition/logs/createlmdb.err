@@ -1,0 +1,10 @@
+I0309 02:18:50.733510 14294 convert_imageset.cpp:83] Shuffling data
+I0309 02:18:54.057199 14294 convert_imageset.cpp:86] A total of 2500 images.
+I0309 02:18:54.197188 14294 db_lmdb.cpp:38] Opened lmdb ./examples/imagenet25/train_lmdb
+I0309 02:19:05.481338 14294 convert_imageset.cpp:144] Processed 1000 files.
+I0309 02:19:16.001760 14294 convert_imageset.cpp:144] Processed 2000 files.
+I0309 02:19:23.743654 14294 convert_imageset.cpp:150] Processed 2500 files.
+I0309 02:19:24.071266 14305 convert_imageset.cpp:83] Shuffling data
+I0309 02:19:26.338498 14305 convert_imageset.cpp:86] A total of 500 images.
+I0309 02:19:26.805762 14305 db_lmdb.cpp:38] Opened lmdb ./examples/imagenet25/val_lmdb
+I0309 02:19:32.230278 14305 convert_imageset.cpp:150] Processed 500 files.
