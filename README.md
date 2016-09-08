@@ -1,5 +1,5 @@
 # VisualRecognition
-This folder contains the assignments for the course CS381V - Visual Recognition at UT Austin
+This folder contains the assignments for the course CS381V - Visual Recognition at UT Austin (http://vision.cs.utexas.edu/381V-spring2016/)
 ## Ransac Based Instance Recognition
 VLFEAT path is assumed to be added.
 Scene and Template images are assumed to be in the same
