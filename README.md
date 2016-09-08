@@ -7,6 +7,7 @@ directory.
 
 Code Structure
 
+```
 1. matchComparison -- (Skeleton code for matchComparison)
 	-- matchComparisonHelper (file where the 3 tests are performed)
 		-- ransac
@@ -18,6 +19,7 @@ Code Structure
 		-- ransac
 			-- applyAffinePars
 		-- applyAffinePars 
+```
 
 ## Category Recognition
 ### InputPreprocessing
